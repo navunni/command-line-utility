@@ -1,2 +1,2 @@
 # command-line-utility 
-short command utility 
+short command line utility for music 

@@ -1,2 +1,2 @@
-# utility-line
+# command-line-utility 
 short command utility 
